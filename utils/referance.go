@@ -3,7 +3,7 @@ package utils
 import (
 	"strings"
 
-	"github.com/aws/aws-sdk-go/aws/arn"
+	"github.com/aws/aws-sdk-go-v2/aws/arn"
 	containerimage "github.com/google/go-containerregistry/pkg/name"
 )
 
